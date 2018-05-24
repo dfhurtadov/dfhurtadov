@@ -1,0 +1,4 @@
+mkdir mi-sitio 
+cd mi-sitio
+git clone https://github.com/[username]/[username].github.io.git
+ 
